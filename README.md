@@ -1,1 +1,3 @@
 # Tokenomics
+
+### :information_source: The white paper will be release soon ...
